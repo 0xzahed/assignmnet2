@@ -4,13 +4,13 @@
 
 @theme {
     --font-family-serif: "Noto Serif", serif;
-    --font-family-doted: "Bitcount Single", system-ui;
 }
 
 .font-noto {
     font-family: "Noto Serif", serif;
     font-weight: bold;
 }
-.font-inter{
+
+.font-inter {
     font-family: "Inter", sans-serif;
 }
